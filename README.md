@@ -5,6 +5,8 @@
 ![Multimodal](https://img.shields.io/badge/Vision-Multimodal-e63946?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+<img width="1254" height="801" alt="logo" src="https://github.com/user-attachments/assets/7daa57c9-de8c-4487-8636-bc36958ac32e" />
+
 **ForgeBox** es una aplicación web intuitiva diseñada para interactuar con modelos de Inteligencia Artificial locales y multimodales a través de **Ollama** y APIs compatibles.
 
 ---
